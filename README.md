@@ -1,10 +1,10 @@
 # Hi , I'm Maria Cabrera (Mai)
 
-A DevSecOps Cloud Architect & Engineer specializing in security.
+## A DevSecOps Cloud Architect & Engineer specializing in security.
 
 <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="built-with-love"/>
 
-## Interests
+### Interests
 
 - Currently working on creating free open source tutorials, demos & examples.
   
