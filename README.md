@@ -14,10 +14,22 @@ A DevSecOps Cloud Architect & Engineer specializing in security.
   
 - Problem solving & automations.
 
-http://ForTheBadge.com/images/badges/built-with-love.svg
+<!-- Connect w/ Mai -->
+<h3 align="center">Connect with me</h3>
 
+<div style="margin-top:10px" align="center">
+  <div>
+    <a href="https://medium.com/@mcabrera_23522" target="https://medium.com/@mcabrera_23522">
+      <img src="https://img.shields.io/badge/medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="example"/>
+    </a>
+    <a href="https://linkedin.com/in/maria-f-cabrera/" target="_blank">
+      <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
+    </a>
+  </div>
 
-## 🧰 Toolbox (*not a complete list, page still under construction!)
+## 🧰 Toolbox 
+
+#### ***(not a complete list, page still under construction!)***
 
 <!-- CICD -->
 <h3 align="center">Programming Languages</h3>
@@ -54,19 +66,6 @@ http://ForTheBadge.com/images/badges/built-with-love.svg
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </p>
-
-<!-- Connect w/ Mai -->
-<h3 align="center">Connect with me</h3>
-
-<div style="margin-top:10px" align="center">
-  <div>
-    <a href="https://medium.com/@mcabrera_23522" target="https://medium.com/@mcabrera_23522">
-      <img src="https://img.shields.io/badge/medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="example"/>
-    </a>
-    <a href="https://linkedin.com/in/maria-f-cabrera/" target="_blank">
-      <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
-    </a>
-  </div>
 
 <!-- Mai Stats -->
 ----
