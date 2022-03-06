@@ -1,8 +1,29 @@
-# Hi , I'm MaiCabrera
+# Hi , I'm Maria Cabrera (Mai)
 
-<!-- ### Languages & Tools
-<img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-<img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"> -->
+A DevSecOps Cloud Architect & Engineer specializing in security.
+
+## Interests
+
+- Currently working on creating free open source tutorials, demos & examples.
+  
+- Enhancing my technical & coloquial writing.
+
+- Continue to `learn & strengthen` programming skills.
+  
+- Problem solving & automations.
+
+## 🧰 Toolbox
+
+<!-- CICD -->
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="go"/>
+<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/>
+<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws"/>
+<img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="bash script"/>
+
 
 <!-- CICD -->
 <h3 align="center">Version Control & CI/CD</h3>
