@@ -46,10 +46,9 @@
 ----
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2>
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maicabrera&count_private=true&show_icons=true&theme=nightowl)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=maicabrera&theme=material-palenight)](https://github.com/MaiCabrera)
 </div>
+
 <!-- snake interactive -->
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
