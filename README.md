@@ -2,6 +2,8 @@
 
 A DevSecOps Cloud Architect & Engineer specializing in security.
 
+<img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="built-with-love"/>
+
 ## Interests
 
 - Currently working on creating free open source tutorials, demos & examples.
@@ -12,7 +14,10 @@ A DevSecOps Cloud Architect & Engineer specializing in security.
   
 - Problem solving & automations.
 
-## 🧰 Toolbox
+http://ForTheBadge.com/images/badges/built-with-love.svg
+
+
+## 🧰 Toolbox (*not a complete list, page still under construction!)
 
 <!-- CICD -->
 <h3 align="center">Programming Languages</h3>
