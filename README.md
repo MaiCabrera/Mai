@@ -1,7 +1,5 @@
 # Hi , I'm MaiCabrera
 
-![star](assets/star.jpg)
-
 <!-- ### Languages & Tools
 <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
 <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"> -->
