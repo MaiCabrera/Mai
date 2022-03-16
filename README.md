@@ -44,7 +44,6 @@
 <img src="https://img.shields.io/badge/vault-121011?style=for-the-badge&logo=vault&logoColor=purple" alt="Vault"/>
 <img src="https://img.shields.io/badge/json-121011?style=for-the-badge&logo=json&logoColor=black" alt="json"/>
 <img src="https://img.shields.io/badge/yaml-121011?style=for-the-badge&logo=yaml&logoColor=yellow" alt="yaml"/>
-<img src="https://img.shields.io/badge/rust-121011?style=for-the-badge&logo=rust&logoColor=red" alt="rust"/>
 <img src="https://img.shields.io/badge/kali-121011?style=for-the-badge&logo=kaliLinux&logoColor=blue" alt="kali"/>
 <img src="https://img.shields.io/badge/kyverno-121011?style=for-the-badge&logo=kyverno&logoColor=green" alt="kyverno"/>
 <img src="https://img.shields.io/badge/hcl-121011?style=for-the-badge&logo=hcl&logoColor=white" alt="hcl"/>
