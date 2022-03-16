@@ -29,7 +29,7 @@
 
 ## 🧰 Toolbox 
 
-#### ***(not a complete list, page still under construction!)***
+#### ***(not a complete list, page under construction!)***
 
 <!-- CICD -->
 <h3 align="center">Programming Languages</h3>
@@ -40,7 +40,14 @@
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/>
 <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws"/>
 <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="bash script"/>
-
+<img src="https://img.shields.io/badge/Terraform-121011?style=for-the-badge&logo=Terraform&logoColor=blue" alt="terraform"/>
+<img src="https://img.shields.io/badge/vault-121011?style=for-the-badge&logo=vault&logoColor=purple" alt="Vault"/>
+<img src="https://img.shields.io/badge/json-121011?style=for-the-badge&logo=json&logoColor=black" alt="json"/>
+<img src="https://img.shields.io/badge/yaml-121011?style=for-the-badge&logo=yaml&logoColor=yellow" alt="yaml"/>
+<img src="https://img.shields.io/badge/rust-121011?style=for-the-badge&logo=rust&logoColor=red" alt="rust"/>
+<img src="https://img.shields.io/badge/kali-121011?style=for-the-badge&logo=kaliLinux&logoColor=blue" alt="kali"/>
+<img src="https://img.shields.io/badge/kyverno-121011?style=for-the-badge&logo=kyverno&logoColor=green" alt="kyverno"/>
+<img src="https://img.shields.io/badge/hcl-121011?style=for-the-badge&logo=hcl&logoColor=white" alt="hcl"/>
 
 <!-- CICD -->
 <h3 align="center">Version Control & CI/CD</h3>
