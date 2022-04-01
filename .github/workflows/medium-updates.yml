@@ -1,18 +1,18 @@
-name: Updated Blog Posts
+# name: Updated Blog Posts
 
-on:
-  schedule:
-    - cron: '* * 1 * *'
+# on:
+#   schedule:
+#     - cron: '* * 1 * *'
 
-jobs:
-  update-readme-with-medium-blog:
-    name: Update this repository README with latest blog posts
-    runs-on: ubuntu-latest
+# jobs:
+#   update-readme-with-medium-blog:
+#     name: Update this repository README with latest blog posts
+#     runs-on: ubuntu-latest
     
-    steps:
-      - uses: actions/checkout@v2
+#     steps:
+#       - uses: actions/checkout@v2
         
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          comment_tag_name: "BLOG-POST-LIST"
-          feed_list: " https://medium.com/me/stories/public"
+#       - uses: gautamkrishnar/blog-post-workflow@master
+#         with:
+#           comment_tag_name: "BLOG-POST-LIST"
+#           feed_list: " https://medium.com/me/stories/public"
