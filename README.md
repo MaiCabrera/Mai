@@ -19,9 +19,6 @@
 
 <div style="margin-top:10px" align="center">
   <div>
-    <a href="https://medium.com/@mcabrera_23522" target="https://medium.com/@mcabrera_23522">
-      <img src="https://img.shields.io/badge/medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="example"/>
-    </a>
     <a href="https://linkedin.com/in/maria-f-cabrera/" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
     </a>
